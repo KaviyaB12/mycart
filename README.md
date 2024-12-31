@@ -1,5 +1,5 @@
-
-Navigate to frontend folder:
+<br>
+Navigate to frontend folder:<br>
   cd frontend
   npm install
   npm run build
