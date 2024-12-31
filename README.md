@@ -6,3 +6,5 @@
   cd .. <br>
   npm install <br>
   npm start <br>
+  <br><br>
+  Edit the .env file in the folder : backend->config->config.env
