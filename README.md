@@ -1,4 +1,4 @@
-<b></b>Navigate to frontend folder:</b><br>
+<b>Navigate to frontend folder:</b><br>
   cd frontend <br>
   npm install <br>
   npm run build <br><br><br>
