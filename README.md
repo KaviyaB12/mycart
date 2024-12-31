@@ -1,9 +1,8 @@
-<br>
-Navigate to frontend folder:<br>
-  cd frontend
-  npm install
-  npm run build
-Navigate to Root folder:
-  cd ..
-  npm install
-  npm start
+<b></b>Navigate to frontend folder:</b><br>
+  cd frontend <br>
+  npm install <br>
+  npm run build <br><br><br>
+<b>Navigate to Root folder: </b><br>
+  cd .. <br>
+  npm install <br>
+  npm start <br>
